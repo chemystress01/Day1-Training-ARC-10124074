@@ -1,1 +1,1 @@
-# Day1-Training-ARC-10124074
+#File tugas terdapat pada folder DAY1
